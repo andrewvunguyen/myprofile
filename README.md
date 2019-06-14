@@ -1,14 +1,27 @@
 ## My Profile 
 
+### Personal information
+
+# Relevant Information
+Name
+Student Number
+Email Address
+
+#Background information
+Nationality:
+Education to date:
+Languages spoken: 
+
+# Fun fact
 You can use the [editor on GitHub](https://github.com/andrewvunguyen/myprofile/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Personal Information
-
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ### Interest in IT
+
+# What is your interest in IT 
 
 ### Ideal Job
 
