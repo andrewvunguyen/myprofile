@@ -3,14 +3,14 @@
 ## Personal information
 
 ### Relevant Information
-Name
-Student Number
-Email Address
+##### Name
+##### Student Number
+###### Email Address
 
 ### Background information
-Nationality:
-Education to date:
-Languages spoken: 
+##### Nationality:
+##### Education to date:
+##### Languages spoken: 
 
 ### Fun fact
 You can use the [editor on GitHub](https://github.com/andrewvunguyen/myprofile/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
