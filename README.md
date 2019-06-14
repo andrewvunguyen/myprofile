@@ -3,14 +3,14 @@
 ## Personal information
 
 ### Relevant Information
-##### Name
-##### Student Number
+###### Name
+###### Student Number
 ###### Email Address
 
 ### Background information
-##### Nationality:
-##### Education to date:
-##### Languages spoken: 
+###### Nationality:
+###### Education to date:
+###### Languages spoken: 
 
 ### Fun fact
 You can use the [editor on GitHub](https://github.com/andrewvunguyen/myprofile/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
@@ -21,7 +21,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ## Interest in IT
 
-#### What is your interest in IT 
+##### What is your interest in IT 
 
 ## Ideal Job
 
