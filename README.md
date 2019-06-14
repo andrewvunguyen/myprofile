@@ -4,16 +4,17 @@ You can use the [editor on GitHub](https://github.com/andrewvunguyen/myprofile/e
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Personal Information
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### Interest in IT
 
-# Header 1
-## Header 2
-### Header 3
+### Ideal Job
+
+### Profile 
+
+### Project ideas 
 
 - Bulleted
 - List
