@@ -64,13 +64,15 @@ ________________________________________________________________________________
 ![image](https://user-images.githubusercontent.com/51509063/59553321-b5f4bf80-8fd6-11e9-96b7-12e59a4e9f71.png)
 
 ##### What do the results of the Learning style test mean for me?
+Based on the learning style test, my learning type is visual. This means that I learn visually, and the use of visual aids will work to increase my ability to absorb and retain information. Because I am a visual learner, I will more likely take down notes rather than get involved in discussions. 
 
 ##### How do I think these results may influence my behaviour in a team?
 
 ##### How should I take this into account when forming a team?
 
 ### Holland Test/ IIP RIASEC Markers 
-![image](https://user-images.githubusercontent.com/51509063/59553091-374a5300-8fd3-11e9-90f7-22577ecc4d8a.png)
+![image](https://user-images.githubusercontent.com/51509063/59554440-2d7e1b00-8fe6-11e9-9300-eead44b3255b.png)
+
 
 ##### What do the results of the Holland test (RIASEC) mean for me?
 
