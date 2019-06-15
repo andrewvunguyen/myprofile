@@ -14,6 +14,7 @@
 
 ### Fun fact
 
+
 ## INTEREST IN IT
 
 ##### What is your interest in IT/ What makes IT interesting for you?
@@ -28,6 +29,8 @@
 
 ##### What do you expect to learn during your studies?
 
+
+
 ## IDEAL JOB
 ![image](https://user-images.githubusercontent.com/51509063/59553312-8d6cc580-8fd6-11e9-8726-505283b35c20.png)
 ##### URL:https://www.seek.com.au/job/39237641?type=standout&searchRequestToken=a16dd584-f6ba-41bc-b324-547631244c99
@@ -38,6 +41,7 @@
 ### Skills, qualifiations and experiences required 
 
 ### Skills, qualifications and experiences you currently have 
+
 
 
 ## PROFILE
@@ -67,6 +71,7 @@
 ##### How do I think these results may influence my behaviour in a team?
 
 ##### How should I take this into account when forming a team?
+
 
 
 ## PROJECT IDEA 
