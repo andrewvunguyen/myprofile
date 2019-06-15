@@ -14,6 +14,7 @@
 
 ### Fun fact
 
+____________________________________________________________________________________________
 
 ## INTEREST IN IT
 
@@ -30,6 +31,7 @@
 ##### What do you expect to learn during your studies?
 
 
+____________________________________________________________________________________________
 
 ## IDEAL JOB
 ![image](https://user-images.githubusercontent.com/51509063/59553312-8d6cc580-8fd6-11e9-8726-505283b35c20.png)
@@ -43,6 +45,7 @@
 ### Skills, qualifications and experiences you currently have 
 
 
+____________________________________________________________________________________________
 
 ## PROFILE
 ### Myers-Briggs Test 
@@ -73,6 +76,7 @@
 ##### How should I take this into account when forming a team?
 
 
+____________________________________________________________________________________________
 
 ## PROJECT IDEA 
 
@@ -115,6 +119,7 @@ Although seeking the resources to learn these skills may not be difficult, given
 
 ### Outcome 
 
+____________________________________________________________________________________________
 
 #### LINK: https://andrewvunguyen.github.io/myprofile/
 
