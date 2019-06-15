@@ -3,9 +3,9 @@
 ## PERSONAL INFORMATION
 
 ### Relevant Information
-###### Name
-###### Student Number
-###### Email Address
+###### Name: Andrew Nguyen
+###### Student Number: s3727902
+###### Email Address: s3727902@student.rmit.edu.au
 
 ### Background information
 ###### Nationality:
