@@ -116,6 +116,10 @@ Furthermore, users can book a table via the app, where they may select a day and
 
 ### Tools and technologies 
 
+Firstly, the software component consists of an app programming language, a designing tool, and an emulator. A programming language is a vocabulary and set of grammatical rules for instructing a computer to perform specific tasks. Examples include Java, C, C++, Corona, PhoneGap, Titanium, and HTML 5. 
+
+And an emulator/app testing tool is one that allows a host device to act like a guest device. This enables the host system to run software designed for the guest system. Examples of emulators are the Google Android emulator, the official Android SDK emulator, Mobione, and eggplant. Examples of open source tools include Android (for Android), and XCode (for iOS). 
+
 ### Skills required 
 The skills necessary for this project include product management skills, design skills, writing skills, QA and performance testing skills, coding skills, cross-platform skills, and data skills. Given my inexperience with information technology, I do not currently possess these skills. 
 
@@ -123,6 +127,9 @@ Although seeking the resources to learn these skills may not be difficult, given
 
 
 ### Outcome 
+The original problem stemmed from how difficult it was to get information on a restaurant a user wanted unless stepping into a restaurant. This resulted in diners entering mediocre restaurants or decent restaurants but with high expectations and left disappointed. What Food Near Me essentially does is mitigate this. 
+
+It provides the same information a user would get from walking into a restaurant, all from the comfort of their mobile device. On the app, the user will have access to full menus, including images, prices, and ratings. The impact of this is that users will know what to expect when they walk into a restaurant.  
 
 ____________________________________________________________________________________________
 
