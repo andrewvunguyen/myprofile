@@ -1,6 +1,6 @@
 # My Profile 
 
-## Personal information
+## PERSONAL INFORMATION
 
 ### Relevant Information
 ###### Name
@@ -14,7 +14,7 @@
 
 ### Fun fact
 
-## Interest in IT
+## INTEREST IN IT
 
 ##### What is your interest in IT/ What makes IT interesting for you?
 
@@ -28,7 +28,7 @@
 
 ##### What do you expect to learn during your studies?
 
-## Ideal Job
+## IDEAL JOB
 ![image](https://user-images.githubusercontent.com/51509063/59553312-8d6cc580-8fd6-11e9-8726-505283b35c20.png)
 ##### URL:https://www.seek.com.au/job/39237641?type=standout&searchRequestToken=a16dd584-f6ba-41bc-b324-547631244c99
 
@@ -40,7 +40,7 @@
 ### Skills, qualifications and experiences you currently have 
 
 
-## Profile 
+## PROFILE
 ### Myers-Briggs Test 
 ![image](https://user-images.githubusercontent.com/51509063/59553268-0fa8ba00-8fd6-11e9-9282-3ce7d4f8be8c.png)
 
@@ -69,7 +69,7 @@
 ##### How should I take this into account when forming a team?
 
 
-## Project ideas 
+## PROJECT IDEA 
 
 ##### What are you passionate about?
 
