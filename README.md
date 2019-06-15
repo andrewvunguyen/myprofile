@@ -13,7 +13,7 @@
 ###### Languages spoken: English and Vietnamese
 
 ### Fun fact
-A fact about myself is that I play Skyrim in my pastime. The game is perhaps may favourite thus far, and shines among my current games: Zelda - Breath of the Wild and Wolfenstein. Naturally attracted to games with adventure roles, these have been my picks for purchase. I own Skyrim on both my Xbox One and Nintendo Switch – and have played the game over 3 times.
+A fact about myself is that I play Skyrim in my pastime. The game is perhaps may favourite thus far, and shines among my current games: Zelda - Breath of the Wild and Wolfenstein. Naturally attracted to games with adventure roles, these have been my picks for purchase. I own Skyrim on both Xbox One and Nintendo Switch – and have played the game over 3 times.
 ____________________________________________________________________________________________
 
 ## INTEREST IN IT
@@ -25,11 +25,14 @@ ________________________________________________________________________________
 ##### Was there a particular event or person that sparked your interest?
 
 ##### Outline your IT experience (if any)
+My experience with Information Technology is limited to the days I spent in high school. My interests back then were on the health sciences, so I was more drawn to Chemistry and Biology. As my goals have changed, so have my interests.
 
 ##### Why did you choose to come to RMIT?
+The first reason I chose to study with RMIT was because of the flexibility it offered me. Through browsing the different universities that provided logistics and supply chain education, RMIT stood out. The option to study online while staying back in Sydney was attractive. In addition, the university's reputation and rich history of providing education in the field of logistics and supply chain was a bonus. Furthermore, it has strong industry connections.
 
 ##### What do you expect to learn during your studies?
-
+During my studies with RMIT, I expect to learn the theoretical aspects necessary to enter the field of logistics and supply chain management. I understand that to gather the knowledge I want, I also have to put in the work in, and that, I am willing to. 
+RMIT is a great university with a long history in logistics and supply chain education. Its school of business IT and logistics has been operational for more than 20 years. 
 
 ____________________________________________________________________________________________
 
