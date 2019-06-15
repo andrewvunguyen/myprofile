@@ -8,12 +8,12 @@
 ###### Email Address: s3727902@student.rmit.edu.au
 
 ### Background information
-###### Nationality:
-###### Education to date:
-###### Languages spoken: 
+###### Nationality: Vietnamese 
+###### Education to date: Started a Bachelor of Business majoring in Logistics and Supply Chain in 2018
+###### Languages spoken: English and Vietnamese
 
 ### Fun fact
-
+A fact about myself is that I play Skyrim in my pastime. The game is perhaps may favourite thus far, and shines among my current games: Zelda - Breath of the Wild and Wolfenstein. Naturally attracted to games with adventure roles, these have been my picks for purchase. I own Skyrim on both my Xbox One and Nintendo Switch – and have played the game over 3 times.
 ____________________________________________________________________________________________
 
 ## INTEREST IN IT
