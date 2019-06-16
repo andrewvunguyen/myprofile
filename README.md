@@ -25,7 +25,7 @@ My interest in IT is derived in its growing presence in the business environment
 My interest in IT is relatively newfound. Before my current degree, I studied a Bachelor of Chiropractic science. Naturally, that degree did not do much with information technology. Since changing to a more suitable degree (Business), my interest from IT grew the desire to understand and best use the available technology.
 
 ##### Was there a particular event or person that sparked your interest?
-
+As aforementioned, my interest in IT sparked when I began my current degree. I realized how common the use of information technology is in the workplace. This unit (Introduction to IT) also consolidated some of my interest in the field, and I now realize how complex and significant it is.
 
 ##### Outline your IT experience (if any)
 My experience with Information Technology is limited to the days I spent in high school. My interests back then were on the health sciences, so I was more drawn to Chemistry and Biology. As my goals have changed, so have my interests.
@@ -52,6 +52,8 @@ The skills required for the job include project management, troubleshooting, and
 ### Skills, qualifications and experiences you currently have 
 I am currently working towards a degree in Business, majoring in Logistics and Supply Chain Management. Although I possess certain skills required of a supply chain management candidate, these skills are not yet sharp and proficient enough. 
 
+### Plan
+
 ____________________________________________________________________________________________
 
 ## PROFILE
@@ -59,10 +61,13 @@ ________________________________________________________________________________
 ![image](https://user-images.githubusercontent.com/51509063/59553268-0fa8ba00-8fd6-11e9-9282-3ce7d4f8be8c.png)
 
 ##### What do the results of the Myers Briggs test mean for me?
+The Myers Briggs test indicated that I am an INTJ (Introverted-Intuitive-Thinking-Judging). This means that I am an introvert (I), and energize by spending quiet time alone, I tend to be more reserved and thoughtful. The way I process information is intuitively (N) and will focus more on theories, patterns, and explanations. I may also be more concerned with the future than the present. Being a thinker (T), I make decisions with my head and are interested in finding the most logistical and reasonable choice. Lastly, being a judger (J), I appreciate structure and order, and like things to be planned ahead. 
 
 ##### How do I think these results may influence my behaviour in a team?
+In a team, I think that being an INTJ would make me a good addition to a group. I am analytical and logical but do not like unpredictability. As a result, I would suggest everyone has set roles and responsibilities, and will frequently keep up to date on how the group is progressing. 
 
 ##### How should I take this into account when forming a team?
+When forming a team, I should, if possible, seek like-minded individuals. If they are happy to break the workload into parts and work individually, discussing progress throughout the stages and sharing the work in the final stages to be approved of together, that is perhaps the best scenario.
 
 ### Learning Style Test
 ![image](https://user-images.githubusercontent.com/51509063/59553321-b5f4bf80-8fd6-11e9-96b7-12e59a4e9f71.png)
@@ -71,18 +76,23 @@ ________________________________________________________________________________
 Based on the learning style test, my learning type is visual. This means that I learn visually, and the use of visual aids will work to increase my ability to absorb and retain information. Because I am a visual learner, I will more likely take down notes rather than get involved in discussions. 
 
 ##### How do I think these results may influence my behaviour in a team?
+As a visual learner, I may be less inclined to throw my thoughts verbally into a discussion, but rather take notes. I may also favor more visually appealing content. As a result, I may employ the use of images, and diagrams to organize information and communicate with other individuals in a team. 
 
 ##### How should I take this into account when forming a team?
+When forming a team, I can work to capitalize on my learning style. For example, I may share my notes with other members and request that they use for visual cues. Furthermore, I will focus on creating notes and research concepts. Lastly, my learning style may differ from other individuals in a group. In such a case, we can discuss our thoughts to decipher if we perceived a certain concept from different angles. 
 
 ### Holland Test/ IIP RIASEC Markers 
 ![image](https://user-images.githubusercontent.com/51509063/59554440-2d7e1b00-8fe6-11e9-9300-eead44b3255b.png)
 
 
-##### What do the results of the Holland test (RIASEC) mean for me?
+##### What do the results of the Holland code careers test mean for me?
+The Holland Codes career test results indicated that my personality code is CEI (Conventional, Enterprising, Investigative). This suggests I possess characteristics common with each of these personality types. For instance, Conventional types are detail oriented and organized, Enterprising types enjoy competitive environments and leadership roles, and Investigative types are analytical and intellectual. However, ascertaining from the first code, conventional, I am someone who enjoys working with data and details and likes to follow set procedures and routines. 
 
 ##### How do I think these results may influence my behaviour in a team?
+In a team, my conventional component will want the group dynamics to be well defined. Expectations should be clearly conveyed, and members should know what part they will be responsible for. However, my enterprising component may want to take the lead and begin the project, or my investigative personality may enjoy more doing research and figuring out how to complete certain aspects. 
 
 ##### How should I take this into account when forming a team?
+When forming a team, I may want to find other individuals who also want to set the expectations. I am also open to completing tasks initiated by others and may opt for a creative group. I also like to follow procedures and routines and may benefit from finding others with similar schedules. 
 
 
 ____________________________________________________________________________________________
@@ -119,7 +129,6 @@ Restaurants can also promote certain dishes, or the restaurant itself, via the a
 Furthermore, users can book a table via the app, where they may select a day and time slot. The restauranteur will confirm their booking as soon as they receive the request. The user will thereafter receive a message notification on the app to confirm their booking. And lastly, if a restaurant offers food delivery, this option will also be displayed on the restaurant thumbnail and in the details when the user selects the restaurant in the app.
 
 ### Tools and technologies 
-
 Firstly, the software component consists of an app programming language, a designing tool, and an emulator. A programming language is a vocabulary and set of grammatical rules for instructing a computer to perform specific tasks. Examples include Java, C, C++, Corona, PhoneGap, Titanium, and HTML 5. 
 
 And an emulator/app testing tool is one that allows a host device to act like a guest device. This enables the host system to run software designed for the guest system. Examples of emulators are the Google Android emulator, the official Android SDK emulator, Mobione, and eggplant. Examples of open source tools include Android (for Android), and XCode (for iOS). 
