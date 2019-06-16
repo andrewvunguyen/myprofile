@@ -1,7 +1,5 @@
 # My Profile 
 
-# I LOVE YOU VIVIEN
-
 ## PERSONAL INFORMATION
 
 ### Relevant Information
@@ -55,6 +53,7 @@ The skills required for the job include project management, troubleshooting, and
 I am currently working towards a degree in Business, majoring in Logistics and Supply Chain Management. Although I possess certain skills required of a supply chain management candidate, these skills are not yet sharp and proficient enough. 
 
 ### Plan
+My plan to reach my ideal job is to first complete my degree. In my final year of studies, I will find an internship to gain some practical experience. After graduating, I will apply for an entry-level job in the field, to gain further experience. I will then apply for a mid-level position a few years later, to consolidate my skills and increase my responsibilities. Once I feel confident, I will apply for a managerial position. 
 
 ____________________________________________________________________________________________
 
@@ -102,10 +101,13 @@ ________________________________________________________________________________
 ## PROJECT IDEA 
 
 ##### What are you passionate about?
+I am passionate about supply chain management and logistics. In addition, ‘food’ is a topic that is relevant to every individual. As different restaurants are becoming increasingly popular, it is inevitable that there will be a need for an app to bring restaurants and diners closer. 
 
 ##### What kind of IT innovation would you like to see?
+In the context of a project, I would like to see an app that gives users the ability to access all the information about a restaurant before choosing to dine there. Features such as the ability to access a full menu with images, and prices, in addition to the restaurants proximity from the user are features that will be greatly useful.
 
 ##### What project will help you develop the skills, experience and knowledge required to make you qualified for your ideal job?
+My ideal job is for a ‘Supply chain manager’. Although this project may not directly help me develop the skills, experience or knowledge required for my qualified job, it will inevitably be an interesting project. However, since it streamlines the process of bringing restauranteur and user one step closer, it can be perceived that I am facilitating the process of moving the food from restaurant to final customer. 
 
 ### Overview
 The project will be a smartphone app called ‘Food Near Me’. Food Near Me is a food app that will bring restauranteurs and users one step closer. The app offers an array of features, such as information and deals from nearby restaurants.
