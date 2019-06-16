@@ -12,7 +12,7 @@
 ###### Education to date: Started a Bachelor of Business majoring in Logistics and Supply Chain in 2018
 ###### Languages spoken: English and Vietnamese
 
-![image](https://user-images.githubusercontent.com/51509063/59563897-0de90000-9083-11e9-97c9-d41e1954fa6e.png)
+![image](https://user-images.githubusercontent.com/51509063/59564073-8650c080-9085-11e9-8a3b-3bce943dee95.png)
 
 ### Fun fact
 A fact about myself is that I play Skyrim in my pastime. The game is perhaps may favourite thus far, and shines among my current games: Zelda - Breath of the Wild and Wolfenstein. Naturally attracted to games with adventure roles, these have been my picks for purchase. I own Skyrim on both Xbox One and Nintendo Switch – and have played the game over 3 times.
