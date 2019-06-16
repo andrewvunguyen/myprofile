@@ -41,7 +41,7 @@ ________________________________________________________________________________
 
 ## IDEAL JOB
 ![image](https://user-images.githubusercontent.com/51509063/59553312-8d6cc580-8fd6-11e9-8726-505283b35c20.png)
-##### URL:https://www.seek.com.au/job/39237641?type=standout&searchRequestToken=a16dd584-f6ba-41bc-b324-547631244c99
+##### URL: https://www.seek.com.au/job/39237641?type=standout&searchRequestToken=a16dd584-f6ba-41bc-b324-547631244c99
 
 ### Position
 The position is for a Supply chain manager. Supply chain managers are individuals who manage the key components of supply chains. Their tasks include encouraging between sales and customer service departments, developing and maintain policies on general logistics and procedures, and maintaining the overall inventory based on demand. This position appeals to me because of its analytical and management nature. It will allow me to showcase my skills and ability in managing a supply chain.  
