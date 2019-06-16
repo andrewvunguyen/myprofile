@@ -16,7 +16,7 @@
 
 ### Fun fact
 A fact about myself is that I play Skyrim in my pastime. The game is perhaps may favourite thus far, and shines among my current games: Zelda - Breath of the Wild and Wolfenstein. Naturally attracted to games with adventure roles, these have been my picks for purchase. I own Skyrim on both Xbox One and Nintendo Switch – and have played the game over 3 times.
-____________________________________________________________________________________________
+________________________________________________________________________________________________________________________________________
 
 ## INTEREST IN IT
 
@@ -39,7 +39,7 @@ The first reason I chose to study with RMIT was because of the flexibility it of
 During my studies with RMIT, I expect to learn the theoretical aspects necessary to enter the field of logistics and supply chain management. I understand that to gather the knowledge I want, I also have to put in the work in, and that, I am willing to. 
 RMIT is a great university with a long history in logistics and supply chain education. Its school of business IT and logistics has been operational for more than 20 years. 
 
-____________________________________________________________________________________________
+________________________________________________________________________________________________________________________________________
 
 ## IDEAL JOB
 ![image](https://user-images.githubusercontent.com/51509063/59553312-8d6cc580-8fd6-11e9-8726-505283b35c20.png)
@@ -57,11 +57,11 @@ I am currently working towards a degree in Business, majoring in Logistics and S
 ### Plan
 My plan to reach my ideal job is to first complete my degree. In my final year of studies, I will find an internship to gain some practical experience. After graduating, I will apply for an entry-level job in the field, to gain further experience. I will then apply for a mid-level position a few years later, to consolidate my skills and increase my responsibilities. Once I feel confident, I will apply for a managerial position. 
 
-____________________________________________________________________________________________
+________________________________________________________________________________________________________________________________________
 
 ## PROFILE
 ### Myers-Briggs Test 
-![image](https://user-images.githubusercontent.com/51509063/59553268-0fa8ba00-8fd6-11e9-9282-3ce7d4f8be8c.png)
+![image](https://user-images.githubusercontent.com/51509063/59564270-0d069d00-9088-11e9-92ab-8f0c7774fc68.png)
 
 ##### What do the results of the Myers Briggs test mean for me?
 The Myers Briggs test indicated that I am an INTJ (Introverted-Intuitive-Thinking-Judging). This means that I am an introvert (I), and energize by spending quiet time alone, I tend to be more reserved and thoughtful. The way I process information is intuitively (N) and will focus more on theories, patterns, and explanations. I may also be more concerned with the future than the present. Being a thinker (T), I make decisions with my head and are interested in finding the most logistical and reasonable choice. Lastly, being a judger (J), I appreciate structure and order, and like things to be planned ahead. 
@@ -85,8 +85,7 @@ As a visual learner, I may be less inclined to throw my thoughts verbally into a
 When forming a team, I can work to capitalize on my learning style. For example, I may share my notes with other members and request that they use for visual cues. Furthermore, I will focus on creating notes and research concepts. Lastly, my learning style may differ from other individuals in a group. In such a case, we can discuss our thoughts to decipher if we perceived a certain concept from different angles. 
 
 ### Holland Test/ IIP RIASEC Markers 
-![image](https://user-images.githubusercontent.com/51509063/59554440-2d7e1b00-8fe6-11e9-9300-eead44b3255b.png)
-
+![image](https://user-images.githubusercontent.com/51509063/59564280-2f001f80-9088-11e9-84c3-73331382cc8a.png)
 
 ##### What do the results of the Holland code careers test mean for me?
 The Holland Codes career test results indicated that my personality code is CEI (Conventional, Enterprising, Investigative). This suggests I possess characteristics common with each of these personality types. For instance, Conventional types are detail oriented and organized, Enterprising types enjoy competitive environments and leadership roles, and Investigative types are analytical and intellectual. However, ascertaining from the first code, conventional, I am someone who enjoys working with data and details and likes to follow set procedures and routines. 
@@ -97,8 +96,7 @@ In a team, my conventional component will want the group dynamics to be well def
 ##### How should I take this into account when forming a team?
 When forming a team, I may want to find other individuals who also want to set the expectations. I am also open to completing tasks initiated by others and may opt for a creative group. I also like to follow procedures and routines and may benefit from finding others with similar schedules. 
 
-
-____________________________________________________________________________________________
+________________________________________________________________________________________________________________________________________
 
 ## PROJECT IDEA 
 
@@ -144,15 +142,14 @@ The skills necessary for this project include product management skills, design 
 
 Although seeking the resources to learn these skills may not be difficult, given the time constraints, they are relatively out of reach. The software component will include emulators, designing tools, and app programming languages. And hardware, excluding a mobile device and computer, may extend further, requiring a sizable amount of capital. Hence, building such an app is not feasible.
 
-
 ### Outcome 
 The original problem stemmed from how difficult it was to get information on a restaurant a user wanted unless stepping into a restaurant. This resulted in diners entering mediocre restaurants or decent restaurants but with high expectations and left disappointed. What Food Near Me essentially does is mitigate this. 
 
 It provides the same information a user would get from walking into a restaurant, all from the comfort of their mobile device. On the app, the user will have access to full menus, including images, prices, and ratings. The impact of this is that users will know what to expect when they walk into a restaurant.  
 
-____________________________________________________________________________________________
+________________________________________________________________________________________________________________________________________
 
-#### LINK: https://andrewvunguyen.github.io/myprofile/
+#### GITHUB REPOSITORY URL: https://andrewvunguyen.github.io/myprofile/
 
 
 
