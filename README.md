@@ -19,10 +19,13 @@ ________________________________________________________________________________
 ## INTEREST IN IT
 
 ##### What is your interest in IT/ What makes IT interesting for you?
+My interest in IT is derived in its growing presence in the business environment. As Information Technology is increasingly prevalent in the workplace, it is natural for me to learn how to best use it. This will help me learn how to use IT to streamline business processes, such as the implementation of enterprise systems.
 
 ##### When did your interest in IT start?
+My interest in IT is relatively newfound. Before my current degree, I studied a Bachelor of Chiropractic science. Naturally, that degree did not do much with information technology. Since changing to a more suitable degree (Business), my interest from IT grew the desire to understand and best use the available technology.
 
 ##### Was there a particular event or person that sparked your interest?
+
 
 ##### Outline your IT experience (if any)
 My experience with Information Technology is limited to the days I spent in high school. My interests back then were on the health sciences, so I was more drawn to Chemistry and Biology. As my goals have changed, so have my interests.
@@ -41,12 +44,13 @@ ________________________________________________________________________________
 ##### URL:https://www.seek.com.au/job/39237641?type=standout&searchRequestToken=a16dd584-f6ba-41bc-b324-547631244c99
 
 ### Position
-
+The position is for a Supply chain manager. Supply chain managers are individuals who manage the key components of supply chains. Their tasks include encouraging between sales and customer service departments, developing and maintain policies on general logistics and procedures, and maintaining the overall inventory based on demand. This position appeals to me because of its analytical and management nature. It will allow me to showcase my skills and ability in managing a supply chain.  
 
 ### Skills, qualifiations and experiences required 
+The skills required for the job include project management, troubleshooting, and problem-solving, on top of others, such as understanding cost accounting, financial statements, e-business systems, cross-cultural issues, legal issues, and more. Supply chain managers are also expected to have excellent communication skills and time-management skills, as well as be proficient using programs such as Excel.  The position requires a relevant bachelor's degree, and to be efficient in the role, candidates often must have at least a minimum of 5 years of experience in a form of management, such as S&OP. 
 
 ### Skills, qualifications and experiences you currently have 
-
+I am currently working towards a degree in Business, majoring in Logistics and Supply Chain Management. Although I possess certain skills required of a supply chain management candidate, these skills are not yet sharp and proficient enough. 
 
 ____________________________________________________________________________________________
 
